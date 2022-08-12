@@ -1,4 +1,8 @@
 /*
+* Author: Manish Sharma
+* Created: 12 Aug, 2022
+*/
+/*
 In this session we will learn how to get input from a user.
 */
 #include<iostream>

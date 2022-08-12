@@ -1,3 +1,7 @@
+/*
+* Author: Manish Sharma
+* Edited: 12 Aug, 2022
+*/
 /* This is a Simple Hello World! program written in C++ */
 
 #include<iostream>

@@ -1,3 +1,7 @@
+/*
+* Author: Manish Sharma
+* Edited: 12 Aug, 2022
+*/
 /* What is Variables? 
 Ans- A variable is a symbolic name for (or reference to) information. The variable's name represents what information the variable contains. They are called variables because the represented information can change but the operations on the variable remain the same.
 */

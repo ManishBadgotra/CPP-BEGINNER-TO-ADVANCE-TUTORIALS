@@ -18,8 +18,8 @@ main() {
     short shortVariable = 1; // Allocate 2 bytes.
     cout << "Value of Short Type Variable: " << shortVariable << " Address of a Short Type Variable: " << &shortVariable << endl;
 
-    float floatVariable = 10.000004; // Allocate 4 bytes to float type variable.
-    double doubleVariable = 10.00000000010; // Allocate 8 bytes to double type variables.
+    float floatVariable = 10.0004; // Allocate 4 bytes to float type variable.
+    double doubleVariable = 10.0000010; // Allocate 8 bytes to double type variables.
     cout << "Value of Float Type Variable: " << floatVariable << endl; 
     cout << "Value of Double Type Variable: " << doubleVariable << endl; // Try to print a address of Double and Float Variables.
 
@@ -47,6 +47,6 @@ main() {
     unsigned short int u1=60445;
     cout<< u1 <<endl;
 
-    const string pray="Har Har Mahadev🙏";
+    const string pray="Har Har Mahadev";
     cout << pray << endl; // const variable can't be re-initialized because this will made them constant till program is there.
 }

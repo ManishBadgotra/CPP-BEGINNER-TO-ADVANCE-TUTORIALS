@@ -40,5 +40,6 @@
 
  more will be added sooner.
 
-made with :heart: by [Manish Sharma](https://twitter.com/ManishBadgotra)
- 
+Credit: [Manish Sharma](https://twitter.com/ManishBadgotra)
+<br/>
+Made with :heart:
